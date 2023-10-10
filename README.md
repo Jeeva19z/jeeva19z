@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeevanantham p</h1>
+<h1 align="center">Hi 👋, I'm Jeevanantham palanisamy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working in **Xerago - Citi bank project**
